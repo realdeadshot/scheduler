@@ -1,0 +1,28 @@
+.App {
+  /* display: flex; */
+  height: 100vh;
+  justify-content: center;
+  align-items: left;
+  flex-flow: row wrap;
+}
+
+.box {
+  width: 50px;
+  height: 10px;
+  background-color: beige;
+  border: 1px;
+
+  /* float: left; */
+}
+
+.inactive {
+  background-color: aqua;
+}
+
+active {
+  background-color: beige;
+}
+
+.table-content {
+  width: 10 vw;
+}
